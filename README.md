@@ -1,0 +1,2 @@
+# MyLeetCodes
+Some leetcode  notes
